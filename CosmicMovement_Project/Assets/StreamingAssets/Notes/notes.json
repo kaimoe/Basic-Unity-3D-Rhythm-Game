@@ -1,0 +1,3 @@
+[{"type": "note", "beat": 4.0, "duration": 0.0, "end": 4.0, "pos": "c", "up": false},
+ {"type": "field", "beat": 5.0, "duration": 0.0, "end": 5.0, "pos": "c", "up": true},
+ {"type": "note", "beat": 6.0, "duration": 2.0, "end": 8.0, "pos": "c", "up": false}]

@@ -1,0 +1,5 @@
+[
+	{"id": "kitties", "title": "Kitties!", "BPM": 105, "length": "1:31", "artist": "Tsunku", "description": "From Rhythm Heaven Megamix", "difficulty": 2, "theme": "light", "ortho": true},
+	{"id": "lvbnr5schwarz", "title": "LVBNR5 Schwarz", "BPM": 143, "length": "2:10", "artist": "Cranky", "description": "From Cytus", "difficulty": 5, "theme": "dark", "ortho": false},
+	{"id": "shakestopper", "title": "Shakestopper", "BPM": 128, "length": "1:50", "artist": "Michael Todd", "description": "From Electronic Super Joy", "difficulty": 7, "theme": "light", "ortho": false}
+]

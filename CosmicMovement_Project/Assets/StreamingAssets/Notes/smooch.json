@@ -1,0 +1,12 @@
+[
+  {"beat": 4.0, "pos": "c", "up": false},
+  {"beat": 36.0, "pos": "r", "up": false},
+  {"beat": 37.0, "pos": "r", "up": false},
+  {"beat": 44.0, "pos": "l", "up": false},
+  {"beat": 44.5, "pos": "l", "up": false},
+  {"beat": 45.0, "pos": "l", "up": false},
+  {"beat": 52.0, "pos": "c", "up": false},
+  {"beat": 64.0, "pos": "l", "up": false},
+  {"beat": 66.0, "pos": "c", "up": false},
+  {"beat": 68.0, "pos": "c", "up": true}
+]
